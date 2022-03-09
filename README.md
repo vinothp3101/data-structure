@@ -1,3 +1,4 @@
 data structures
-  * stack
+  * Stack
   * Queue
+  * Hash Table
