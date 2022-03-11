@@ -3,3 +3,4 @@ data structures
   * Hash Table
   * Stack
   * Queue
+  * Tree
