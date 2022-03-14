@@ -4,3 +4,4 @@ data structures
   * Stack
   * Queue
   * Tree
+  * Binary Tree
